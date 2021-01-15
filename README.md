@@ -3,8 +3,15 @@
 ## Overview
 This app contains interactive map and data-mining analysis with current COVID-19 situation
 
-## Database used
-* Sqlite 3
+## Technologies Used
+ Database
+  * [SQlite3](https://www.sqlite.org/index.html)
+ 
+ Backend
+  * TBD
+
+ Frontend
+   * TBD
 
 ## Status
 In Progress
